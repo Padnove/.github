@@ -34,7 +34,7 @@ Nous sommes une entreprise spécialisée dans :
 - Retail
 - Logistics
 
-##🤖 AI Expertise
+## 🤖 AI Expertise
 
 - Large Language Models
 - AI Assistants
