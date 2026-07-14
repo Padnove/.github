@@ -24,7 +24,7 @@ We believe that **technology and artificial intelligence should be accessible to
 
 ## Expertise
 
-Nous sommes une entreprise spécialisée dans :
+We are a company specializing in :
 
 - Enterprise Software
 - Artificial Intelligence
