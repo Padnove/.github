@@ -12,21 +12,44 @@ artificial intelligence, cloud technologies and digital transformation.
 We design and build innovative digital products that help organizations
 operate smarter, faster and more efficiently.
 
-## 💼 Expertise
+## Expertise
 
-- 🤖 Artificial Intelligence
-- 💻 Enterprise Software
-- 🌐 Web Development
-- 📱 Mobile Applications
-- ☁️ Cloud Infrastructure
-- 🔐 Cybersecurity
-- 📊 Data & Analytics
-- ⚙️ Business Automation
+Nous sommes une entreprise spécialisée dans :
 
-## 🚀 Featured Projects
+- Enterprise Software
+- Artificial Intelligence
+- Web Applications
+- Mobile Applications
+- Cloud Infrastructure
+- Digital Transformation
 
-Geyris : Modern ERP and business management platform built by Padnove.
-Geyris AI : AI-powered assistant for the Geyris ecosystem.
+## Industries
+
+- Agriculture
+- Finance
+- Gestion
+- Healthcare
+- Education
+- Government
+- Retail
+- Logistics
+
+##🤖 AI Expertise
+
+- Large Language Models
+- AI Assistants
+- Computer Vision
+- NLP
+- Machine Learning
+- AI Automation
+
+## 🌍 Featured Products
+
+- G-Connex : Digital platform for the agro-pastoral sector
+- Geyris :	Business Management Platform / Modern ERP and business management platform built by Padnove.
+- Geyris AI : AI Assistant / AI-powered assistant for the Geyris ecosystem.
+- Padnove Cloud :	Cloud Services
+- Open Source :	Developer Tools; ...
 
 ## ❤️ Open Source
 
